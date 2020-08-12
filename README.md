@@ -1,1 +1,1 @@
-# Logistic-Regression-on-donors-choose-datase
+# Logistic-Regression-on-donors-choose-dataset
